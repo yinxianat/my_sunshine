@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "YOURTEAMID.com.yinxia.mySunshine",
+        "paths": [
+          "/auth/magic-link/verify*",
+          "/auth/reset-password*"
+        ]
+      }
+    ]
+  }
+}
